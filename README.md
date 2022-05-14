@@ -43,7 +43,6 @@
 • Do you see a chance to collaborate?<br>
 • Or maybe have any questions?<br>
 
-<br>
 Please message me or visit my website to further explore contact options:&nbsp;&nbsp; <a href="https://www.jdwidawski.com/"><img alt="Website Badge" src="./images/website_badge.svg"/></a>
 
 
