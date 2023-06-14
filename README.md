@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.jdwidawski.com/">
-    <img alt="Website Badge" src="./images/banner.png" style="border-radius: 30px;"/>  
+    #<img alt="Website Badge" src="./images/banner.png" style="border-radius: 30px;"/>  
   </a>
 </div>
 
